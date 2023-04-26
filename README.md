@@ -3,7 +3,7 @@ Repository of various strategies and techniques used in algorithmic trading roun
 
 These techniques include VWAP, Reversion, Momentum, RSI etc;
 
-Secured rank in top 0.025 percentile out of 8000+ teams.
+Secured rank in top 2.5 percentile out of 8000+ teams.
 
 ## Contributors -
 - Utkarsh Pandey
