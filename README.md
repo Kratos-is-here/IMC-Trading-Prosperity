@@ -10,17 +10,15 @@ We would call an order book with no bid orders at or above the level of the lowe
 
 ## Financial Instruments - 
 
-<!-- ![Order Book](media/Bananas_Pearls.png) ![Order Book](media/Pina-Colada_Coconuts.png) -->
-<!-- ![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2") -->
 <p float="left">
   <img src="media/Bananas_Pearls.png" width="650" />
-  <img src="media/Pina-Colada_Coconuts.png" width="628" /> 
+  <img src="media/Pina-Colada_Coconuts.png" width="650" /> 
 </p>
 
 <p float="left">
 
   <img src="media/p3.png" width="650" /> 
-  <img src="media/p4.png" width="663" />  
+  <img src="media/p4.png" width="650" />  
 </p>
 
 Each financial instrument had a maximum and minimum position limit.
