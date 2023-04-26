@@ -49,7 +49,7 @@ The major challenges we faced are below:
   - Cointegration
   - Volatility based strategies
 - The banana product's mean price of the PnLs on using the Mean Reversion Strategies like Bollinger Bands, zscore with threshold to trade
-![Bollinger Bands]('media/bollinger.png')
+![Bollinger Bands](media/bollinger.png)
 - For Pearls, we used Volume Weighted Average Price as the acceptable price to trade
 
 
