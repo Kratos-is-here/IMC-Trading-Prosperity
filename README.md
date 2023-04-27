@@ -56,5 +56,5 @@ The major challenges we faced are below:
 ## Contributors
 - [Utkarsh Pandey](https://github.com/Kratos-is-here)
 - Liam Murray
-- Eshaan
+- [Eshaan Agarwal](https://github.com/eshaanagarwal)
 - Swarn
